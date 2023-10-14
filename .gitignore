@@ -1,3 +1,3 @@
 /DirectoryToIgnore
-#testToIgnore.txt
-*.txt
+testToIgnore.txt
+#*.txt
